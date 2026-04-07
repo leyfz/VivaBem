@@ -35,10 +35,25 @@ Justificativa: A escolha da ODS 3 — Saúde e Bem-Estar — se deve à sua impo
 - Incentivo à constância por meio de pequenas ações diárias (micro-hábitos)
 - Possível adaptação para diferentes contextos sociais e econômicos
 
-## 📝 Documentação Inicial
-- **Visão Geral**: descrição resumida do sistema
-- **Requisitos Funcionais**: lista das principais funções esperadas
-- **Requisitos Não Funcionais**: desempenho, usabilidade, segurança
-- **Protótipo Inicial**: link ou imagem de telas desenhadas (pode ser feito em Figma, Canva, ou outro)
+## 📝 Documentação Inicial: 
+### - Visão Geral:
+- O sistema será um aplicativo simples de promoção de saúde e bem-estar, com foco em incentivar hábitos saudáveis no dia a dia. Ele permitirá que o usuário acompanhe atividades básicas como exercícios, consumo de água, sono e humor, além de oferecer conteúdos educativos e lembretes. A proposta é ser uma ferramenta prática e acessível, ajudando o usuário a desenvolver uma rotina mais equilibrada, alinhada à prevenção e ao autocuidado, contribuindo para os objetivos da ODS 3.
+- 
+### - Requisitos Funcionais:
+- Cadastro e login de usuário
+- Registro diário de hábitos
+- Visualização do progresso 
+- Definição de metas básicas 
+- Lembretes/notificações para hábitos
+- Registro de humor
+- Exibição de dicas de saúde e bem-estar
+- Edição de perfil do usuário
+
+### - Requisitos Não-Funcionais:
+- Interface simples e fácil de usar
+- Sistema leve, que funcione em celulares básicos
+- Aplicação organizada e com código fácil de manter
+- Compatível com versôes um pouco mais antigas do Android
+
 
 ## 
