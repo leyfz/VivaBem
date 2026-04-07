@@ -1,13 +1,12 @@
 # VivaBem
 
-# Nome do Projeto
 
 ## 👥 Integrantes
-- Hiarlley Francisco Lima da Silva (Aluno 1)
-- Taiane Duarte Rezende (Aluno 2)
-- Larissa Vitória Lira de Miranda (Aluno 3)
-- Maria Miriam Marques dos Santos (Aluno 4)
-
+- Hiarlley Francisco Lima da Silva 
+- Taiane Duarte Rezende 
+- Larissa Vitória Lira de Miranda 
+- Maria Miriam Marques dos Santos
+- 
 ## 🎯 Objetivo do Projeto
 Promover a saúde e o bem-estar da população por meio de um aplicativo que incentive a adoção de hábitos saudáveis, ofereça suporte ao cuidado com a saúde mental e amplie o acesso à informação de qualidade, contribuindo para a prevenção de doenças e a melhoria da qualidade de vida, em alinhamento com a ODS 3 (Saúde e Bem-Estar).
 
@@ -36,10 +35,10 @@ Justificativa: A escolha da ODS 3 — Saúde e Bem-Estar — se deve à sua impo
 - Possível adaptação para diferentes contextos sociais e econômicos
 
 ## 📝 Documentação Inicial: 
-### - Visão Geral:
+### Visão Geral:
 - O sistema será um aplicativo simples de promoção de saúde e bem-estar, com foco em incentivar hábitos saudáveis no dia a dia. Ele permitirá que o usuário acompanhe atividades básicas como exercícios, consumo de água, sono e humor, além de oferecer conteúdos educativos e lembretes. A proposta é ser uma ferramenta prática e acessível, ajudando o usuário a desenvolver uma rotina mais equilibrada, alinhada à prevenção e ao autocuidado, contribuindo para os objetivos da ODS 3.
-- 
-### - Requisitos Funcionais:
+  
+###  Requisitos Funcionais:
 - Cadastro e login de usuário
 - Registro diário de hábitos
 - Visualização do progresso 
@@ -49,7 +48,7 @@ Justificativa: A escolha da ODS 3 — Saúde e Bem-Estar — se deve à sua impo
 - Exibição de dicas de saúde e bem-estar
 - Edição de perfil do usuário
 
-### - Requisitos Não-Funcionais:
+### Requisitos Não-Funcionais:
 - Interface simples e fácil de usar
 - Sistema leve, que funcione em celulares básicos
 - Aplicação organizada e com código fácil de manter
