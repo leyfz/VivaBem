@@ -13,7 +13,7 @@
 
 ## 🌍 ODS Relacionada:
 - ODS 3 – Saúde e Bem-Estar.
-Justificativa: A escolha da ODS 3 — Saúde e Bem-Estar — se deve à sua importância na melhoria da qualidade de vida, especialmente diante do aumento de problemas como estresse, sedentarismo e baixa atenção à saúde mental. O projeto busca incentivar hábitos saudáveis e o autocuidado, contribuindo para a prevenção de doenças e o bem-estar da população.
+- Justificativa: A escolha da ODS 3 — Saúde e Bem-Estar — se deve à sua importância na melhoria da qualidade de vida, especialmente diante do aumento de problemas como estresse, sedentarismo e baixa atenção à saúde mental. O projeto busca incentivar hábitos saudáveis e o autocuidado, contribuindo para a prevenção de doenças e o bem-estar da população.
 
 ## 📱 Ideia Inicial do Aplicativo:
 ### Funcionalidades principais:
