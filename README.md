@@ -5,7 +5,7 @@
 
 - Hiarlley Francisco Lima da Silva
 - Taiane Duarte Rezende
-- Larissa Vitória Lira de Miranda 
+-  
 - Maria Miriam Marques dos Santos
 
 ## 🎯 Objetivo do Projeto:
