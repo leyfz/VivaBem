@@ -56,4 +56,9 @@
 - Compatível com versôes um pouco mais antigas do Android
 
 
+### Link do protótipo: https://www.figma.com/design/0yPONdVD2dH9JtH5uPy3Cp/VivaBem?node-id=0-1&t=4SnnieR1NQkgQC5d-1
+
+### Obs: O projeto será refeito, tendo por ideia inicial controle de vacinas e fila virtual de vacinação.
+
+
 ## 
