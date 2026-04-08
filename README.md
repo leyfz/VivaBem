@@ -6,7 +6,7 @@
 - Hiarlley Francisco Lima da Silva
 - Taiane Duarte Rezende
 - Larissa Vitória Lira de Miranda
-- 
+- Maria Miriam Marques dos Santos 
 
 ## 🎯 Objetivo do Projeto:
 - Promover a saúde e o bem-estar da população por meio de um aplicativo que incentive a adoção de hábitos saudáveis, ofereça suporte ao cuidado com a saúde mental e amplie o acesso à informação de qualidade, contribuindo para a prevenção de doenças e a melhoria da qualidade de vida, em alinhamento com a ODS 3 (Saúde e Bem-Estar).
