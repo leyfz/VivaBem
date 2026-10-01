@@ -9,11 +9,7 @@
 - Maria Miriam Marques dos Santos 
 
 ## 🎯 Objetivo do Projeto:
-- Promover a saúde e o bem-estar da população por meio de um aplicativo que incentive a adoção de hábitos saudáveis, ofereça suporte ao cuidado com a saúde mental e amplie o acesso à informação de qualidade, contribuindo para a prevenção de doenças e a melhoria da qualidade de vida, em alinhamento com a ODS 3 (Saúde e Bem-Estar).
-
-## 🌍 ODS Relacionada:
-- ODS 3 – Saúde e Bem-Estar.
-- Justificativa: A escolha da ODS 3 — Saúde e Bem-Estar — se deve à sua importância na melhoria da qualidade de vida, especialmente diante do aumento de problemas como estresse, sedentarismo e baixa atenção à saúde mental. O projeto busca incentivar hábitos saudáveis e o autocuidado, contribuindo para a prevenção de doenças e o bem-estar da população.
+- Promover a saúde e o bem-estar da população por meio de um aplicativo que incentive a adoção de hábitos saudáveis, ofereça suporte ao cuidado com a saúde mental e amplie o acesso à informação de qualidade, contribuindo para a prevenção de doenças e a melhoria da qualidade de vida.
 
 ## 📱 Ideia Inicial do Aplicativo:
 ### Funcionalidades principais:
@@ -37,7 +33,7 @@
 
 ## 📝 Documentação Inicial: 
 ### Visão Geral:
-- O sistema será um aplicativo simples de promoção de saúde e bem-estar, com foco em incentivar hábitos saudáveis no dia a dia. Ele permitirá que o usuário acompanhe atividades básicas como exercícios, consumo de água, sono e humor, além de oferecer conteúdos educativos e lembretes. A proposta é ser uma ferramenta prática e acessível, ajudando o usuário a desenvolver uma rotina mais equilibrada, alinhada à prevenção e ao autocuidado, contribuindo para os objetivos da ODS 3.
+- O sistema será um aplicativo simples de promoção de saúde e bem-estar, com foco em incentivar hábitos saudáveis no dia a dia. Ele permitirá que o usuário acompanhe atividades básicas como exercícios, consumo de água, sono e humor, além de oferecer conteúdos educativos e lembretes. A proposta é ser uma ferramenta prática e acessível, ajudando o usuário a desenvolver uma rotina mais equilibrada, alinhada à prevenção e ao autocuidado.
   
 ###  Requisitos Funcionais:
 - Cadastro e login de usuário
@@ -56,9 +52,3 @@
 - Compatível com versôes um pouco mais antigas do Android
 
 
-### Link do protótipo: https://www.figma.com/design/0yPONdVD2dH9JtH5uPy3Cp/VivaBem?node-id=0-1&t=4SnnieR1NQkgQC5d-1
-
-### Obs: O projeto será refeito, tendo por ideia inicial controle de vacinas e fila virtual de vacinação.
-
-
-## 
