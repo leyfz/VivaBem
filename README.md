@@ -49,6 +49,6 @@
 - Interface simples e fácil de usar
 - Sistema leve, que funcione em celulares básicos
 - Aplicação organizada e com código fácil de manter
-- Compatível com versôes um pouco mais antigas do Android
+- Compatível com versões um pouco mais antigas do Android
 
 
