@@ -67,3 +67,13 @@
 
 O Ygeia serviu como referência para a adoção de uma abordagem que prioriza a privacidade e o controle dos dados pelo usuário. Essa ideia foi adaptada ao planejamento do VivaBem, especialmente para o tratamento de informações pessoais relacionadas à saúde e ao bem-estar.
 
+## Fluxo de utilização
+
+O VivaBem terá um fluxo de utilização organizado para facilitar o acompanhamento da saúde e do bem-estar dos usuários.
+
+1. **Acesso inicial:** o usuário abre o aplicativo e conhece suas principais funcionalidades.
+2. **Cadastro:** realiza o cadastro e configura seu perfil pessoal.
+3. **Definição de objetivos:** estabelece metas relacionadas à saúde física e mental.
+4. **Registro diário:** registra informações sobre hábitos, atividades físicas, sono, hidratação e humor.
+5. **Acompanhamento:** consulta seu progresso e acompanha sua evolução ao longo do tempo.
+6. **Orientações:** recebe dicas e lembretes para incentivar a manutenção de hábitos saudáveis.
