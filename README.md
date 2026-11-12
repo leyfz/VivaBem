@@ -52,3 +52,18 @@
 - Compatível com versões um pouco mais antigas do Android
 
 
+## 🔒 Diretrizes de Privacidade e Segurança
+
+- Priorizar o armazenamento local dos registros pessoais do usuário.
+- Proteger informações relacionadas a hábitos, humor e bem-estar.
+- Solicitar autorização antes de compartilhar dados com serviços externos.
+- Coletar apenas as informações necessárias para o funcionamento do aplicativo.
+
+## 📚 Referências e Inspirações
+
+**Projeto estudado:** [Ygeia](https://github.com/falakiwastaken/ygeia)
+
+**Fork realizado:** [Ygeia - Fork de Hiarlley](https://github.com/leyfz/ygeia)
+
+O Ygeia serviu como referência para a adoção de uma abordagem que prioriza a privacidade e o controle dos dados pelo usuário. Essa ideia foi adaptada ao planejamento do VivaBem, especialmente para o tratamento de informações pessoais relacionadas à saúde e ao bem-estar.
+
